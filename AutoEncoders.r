@@ -1,7 +1,8 @@
+###******** H2O version 2.8 *********###
 rm(list=ls(all=T))
 
 ### set the working directory
-setwd("C:/Users/Dell/Downloads/20170318_Batch23_7219c_GNQ_Datasets/20170318_Batch23_7219c_GNQ_Datasets")
+setwd("SET YOUR FILEPATH HERE")
 
 ### use read.table to read the text file in r
 bank_note <- read.table("data_banknote_authentication.txt", header = FALSE, sep = ",")
