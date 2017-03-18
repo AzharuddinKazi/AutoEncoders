@@ -1,0 +1,2 @@
+we have been given a bank_note authentication dataset and our job is to correctly predict the class of the dataset
+as authentic(1) or not(0). 
